@@ -1,1 +1,8 @@
 # azurefoundry
+Criando um Chat Interativo com Azure Foundry
+
+Com os avanços em inteligência artificial e processamento de linguagem natural, é possível criar um sistema interativo que não só entende e processa consultas, mas também responde de forma precisa com base em informações específicas. O Azure Foundry proporciona uma plataforma robusta para desenvolver esse tipo de solução. Utilizando IA generativa, embeddings e buscas avançadas, você pode estruturar um sistema eficiente que conecta perguntas dos usuários com dados de documentos PDF. Essa abordagem permite a construção de um modelo de assistência virtual personalizado, focado em um conjunto de informações proprietárias, sem depender exclusivamente do conhecimento generalista de modelos pré-treinados.
+
+Ao combinar **IA generativa** (como modelos avançados de linguagem), **representações por embeddings** (para capturar o significado semântico dos documentos) e **buscas valorizadas** (para encontrar informações relevantes), você pode oferecer uma experiência interativa que agrega valor aos usuários. Seja para suporte técnico, treinamento corporativo ou acesso a conteúdos específicos, essa solução personalizada coloca as informações certas ao alcance das perguntas.
+
+Esse processo envolve preparar os dados de PDFs, extrair seu conteúdo, implementar embeddings para capturar contextos significativos e criar um sistema de perguntas e respostas preciso por meio da combinação de IA generativa e busca. O resultado é um sistema interativo que garante eficiência e praticidade, ideal para empresas que desejam aproveitar seus dados internos de maneira mais inteligente.
